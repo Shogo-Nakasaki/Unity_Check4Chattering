@@ -1,0 +1,4 @@
+repository "22_002_Check4Chattering@ShogoN_JPN@cloud"
+  path "/"
+    br "/main"
+    co "/main"
